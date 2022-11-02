@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Homework_MichalKushmaro.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Homework_MichalKushmaro.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Homework_MichalKushmaro.Client.csproj",
+        "projectName": "Homework_MichalKushmaro.Client",
+        "projectPath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Homework_MichalKushmaro.Client.csproj",
+        "packagesPath": "/Users/michalkushmaro/.nuget/packages/",
+        "outputPath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michalkushmaro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj": {
+                "projectPath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.10, 6.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj",
+        "projectName": "Homework_MichalKushmaro.Shared",
+        "projectPath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj",
+        "packagesPath": "/Users/michalkushmaro/.nuget/packages/",
+        "outputPath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michalkushmaro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
