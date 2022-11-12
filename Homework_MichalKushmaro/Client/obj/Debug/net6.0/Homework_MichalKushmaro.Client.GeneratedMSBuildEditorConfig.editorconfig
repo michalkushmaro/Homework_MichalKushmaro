@@ -11,41 +11,45 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Homework_MichalKushmaro.Client
 build_property.RootNamespace = Homework_MichalKushmaro.Client
-build_property.ProjectDir = /Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/
+build_property.ProjectDir = /Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client
+build_property.MSBuildProjectDirectory = /Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/App.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Pages/Counter.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Pages/FetchData.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Pages/Index.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Pages/HomeWork2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZVdvcmsyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Shared/SurveyPrompt.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/_Imports.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Shared/MainLayout.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9wucdco9cf
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Shared/NavMenu.razor]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-il94wrrw7w

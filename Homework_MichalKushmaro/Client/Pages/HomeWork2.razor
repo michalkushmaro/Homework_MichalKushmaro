@@ -1,0 +1,112 @@
+﻿@page "/HomeWork2"
+
+<h1>Please insert one number in each textbox:</h1>
+<br/>
+
+<input type ="text" @bind ="@txtBox1" />
+<input type="text" @bind="@txtBox2" />
+<input type="text" @bind="@txtBox3" />
+<input type="text" @bind="@txtBox4" />
+<input type="text" @bind="@txtBox5" />
+
+<br/>
+<input type ="button" @onclick = "Submit" value="submit" />
+<input type="button" @onclick = "Calculate" value="calculate" />
+
+<br/>
+<span>@sum1</span>
+<br />
+<span>@max2</span>
+<br />
+<span>@avg3</span>
+
+@code {
+
+    List<double> MyTextBox = new List<double>();
+    string txtBox1 = " ";
+
+    string txtBox2 = " ";
+
+    string txtBox3 = " ";
+
+    string txtBox4 = " ";
+
+    string txtBox5 = " ";
+
+    string sum1 = " ";
+
+    string max2 = " ";
+
+    string avg3 = " ";
+
+
+    private void Submit ()
+    {
+
+        MyTextBox.Add(Convert.ToDouble(txtBox1));
+
+        MyTextBox.Add(Convert.ToDouble(txtBox2));
+
+        MyTextBox.Add(Convert.ToDouble(txtBox3));
+
+        MyTextBox.Add(Convert.ToDouble(txtBox4));
+
+        MyTextBox.Add(Convert.ToDouble(txtBox5));
+
+
+
+    }
+
+    public void Calculate()
+    {
+        double Sum = 0;
+
+        double Max = 0;
+
+        double Avg = 0;
+
+        int Count = 0;
+
+
+        @if (MyTextBox.Count == 5)
+            {
+                @foreach (double Mynum in MyTextBox)
+                    {
+                        Sum += Mynum;
+
+                        @if (Max < Mynum)
+                            {
+                                Max = Mynum;
+                            }
+
+                        @if (Mynum % 2 == 0)
+                            {
+                                Count++;
+                                Avg += Mynum;
+                            }
+
+                    }
+
+                sum1 = "the sum of your numbers:" + Sum.ToString();
+                max2 = "the biggest number of your numbers:" + Max.ToString();
+                avg3 = "the average of your even numbers:" + (Avg / Count).ToString();
+
+
+            }
+
+            else
+            {
+
+                sum1 = "please insert a number in all the text boxes";
+
+
+            }
+       }
+
+
+
+
+    }
+
+}
+

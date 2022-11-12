@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj": {}
+    "/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj": {}
   },
   "projects": {
-    "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj": {
+    "/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj",
+        "projectUniqueName": "/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj",
         "projectName": "Homework_MichalKushmaro.Shared",
-        "projectPath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj",
+        "projectPath": "/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/Homework_MichalKushmaro.Shared.csproj",
         "packagesPath": "/Users/michalkushmaro/.nuget/packages/",
-        "outputPath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/",
+        "outputPath": "/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michalkushmaro/.nuget/NuGet/NuGet.Config"

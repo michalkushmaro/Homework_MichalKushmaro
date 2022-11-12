@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Homework_MichalKushmaro.Server
 build_property.RootNamespace = Homework_MichalKushmaro.Server
-build_property.ProjectDir = /Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Server/
+build_property.ProjectDir = /Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Server/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Server
+build_property.MSBuildProjectDirectory = /Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Server
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Server/Pages/Error.cshtml]
+[/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

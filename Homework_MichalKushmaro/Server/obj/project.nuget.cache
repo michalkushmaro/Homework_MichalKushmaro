@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yskOs8CIYI2ssdXgjdSE22S2412n9MxLTi7JTPHOhexJ9ws2V3fCxlyZXKVfAU5EUUDDGpE/VfKLWe6zRr/EDQ==",
+  "dgSpecHash": "//uJYe1bkOZ9JcQsVAU7uulOGdEwZnHpTLjfLTDCFU0O0J+v+onb6BoI+d/p32VMcNj8HAhCEzawySrow1Ycdw==",
   "success": true,
-  "projectFilePath": "/Users/michalkushmaro/Desktop/Homework_MichalKushmaro/Homework_MichalKushmaro/Server/Homework_MichalKushmaro.Server.csproj",
+  "projectFilePath": "/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Server/Homework_MichalKushmaro.Server.csproj",
   "expectedPackageFiles": [
     "/Users/michalkushmaro/.nuget/packages/microsoft.aspnetcore.authorization/6.0.10/microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "/Users/michalkushmaro/.nuget/packages/microsoft.aspnetcore.components/6.0.10/microsoft.aspnetcore.components.6.0.10.nupkg.sha512",

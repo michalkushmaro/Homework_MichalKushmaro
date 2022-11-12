@@ -1,0 +1,12 @@
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/bin/Debug/net6.0/Homework_MichalKushmaro.Shared.deps.json
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/bin/Debug/net6.0/Homework_MichalKushmaro.Shared.dll
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/bin/Debug/net6.0/Homework_MichalKushmaro.Shared.pdb
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/Homework_MichalKushmaro.Shared.csproj.AssemblyReference.cache
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/Homework_MichalKushmaro.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/Homework_MichalKushmaro.Shared.AssemblyInfoInputs.cache
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/Homework_MichalKushmaro.Shared.AssemblyInfo.cs
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/Homework_MichalKushmaro.Shared.csproj.CoreCompileInputs.cache
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/Homework_MichalKushmaro.Shared.dll
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/refint/Homework_MichalKushmaro.Shared.dll
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/Homework_MichalKushmaro.Shared.pdb
+/Users/michalkushmaro/Desktop/סמסטר א/תכנות 1/Homework_MichalKushmaro/Homework_MichalKushmaro/Shared/obj/Debug/net6.0/ref/Homework_MichalKushmaro.Shared.dll
