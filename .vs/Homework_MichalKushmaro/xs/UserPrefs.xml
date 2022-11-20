@@ -1,25 +1,29 @@
 ﻿<Properties StartupConfiguration="{C5447730-535D-4D3E-980D-A5F63947DEAA}|Default">
-  <MonoDevelop.Ide.ItemProperties.Homework__MichalKushmaro.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Homework__MichalKushmaro.Server FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Homework__MichalKushmaro.Client FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Homework__MichalKushmaro.Server PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homework_MichalKushmaro/Client/Pages/Index.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework_MichalKushmaro/Client/Pages/HomeWork2.razor">
     <Files>
-      <File FileName="Homework_MichalKushmaro/Client/Pages/Index.razor" Line="7" Column="1" />
+      <File FileName="Homework_MichalKushmaro/Client/Pages/Index.razor" Line="12" Column="1" />
+      <File FileName="Homework_MichalKushmaro/Client/Pages/HomeWork2.razor" Line="19" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Homework_MichalKushmaro" expanded="True">
             <Node name="Homework_MichalKushmaro.Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="HomeWork2.razor" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Homework_MichalKushmaro.Server" expanded="True">
               <Node name="Pages" expanded="True" />
             </Node>
-            <Node name="Homework_MichalKushmaro.Server" expanded="True" />
+            <Node name="Homework_MichalKushmaro.Shared" expanded="True" />
           </Node>
         </State>
       </Pad>

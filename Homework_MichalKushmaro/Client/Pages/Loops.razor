@@ -1,0 +1,61 @@
+﻿@page "/Loops"
+
+<ul>
+    @foreach (string c in newList)
+    {
+        <li>
+            @c
+        </li>
+    }
+</ul>
+
+<input type="number" @bind="num">
+
+<br />
+
+<input type="button" value="click" @onclick="Contries" />
+
+<span>@a</span>
+
+@code {
+    List<string> Country = new List<string>() { "Israel", "Uruguay", "Argentina", "Peru", "Cyprus", "Portugal", "United Kingdom", "Lebanon", "Romania", "Sweden" };
+    int num;
+    string a = "";
+    List<string> newList = new List<string>();
+    string MyCountry = "";
+    int cLength;
+
+    private void Contries()
+    {
+
+        if (num > 0 && num < 11)
+        {
+
+            for (int i = 0; i < 10; i++)
+            {
+
+                if (i == num)
+                {
+                    break;
+                }
+                else
+                {
+                    MyCountry = Country[i];
+                    cLength = MyCountry.Length;
+                    newList.Add(returnLength(MyCountry, cLength));
+                }
+            }
+
+        }
+        else
+        {
+            a = "Please enter a number between 1-10";
+        }
+    }
+
+    private string returnLength(string x, int y)
+    {
+        return x + y.ToString();
+    }
+}
+
