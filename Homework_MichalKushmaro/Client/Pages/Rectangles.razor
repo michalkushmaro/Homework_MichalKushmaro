@@ -1,0 +1,85 @@
+﻿@page "/Rectangles"
+
+@using  Homework_MichalKushmaro.Client.Shared.Models.OOP
+
+<h1>Rectangles</h1>
+
+<h2>First Rectangle:</h2>
+<br />
+
+height:
+<input type="number" @bind="FirstRectangle.height" />
+<br />
+
+width:
+<input type="number" @bind="FirstRectangle.width" />
+<br />
+
+color:
+<input type="text" @bind="FirstRectangle.color" />
+<br />
+
+<h2>Second Rectangle:</h2>
+<br/>
+
+height:
+<input type="number" @bind="SecondRectangle.height" />
+<br />
+
+width:
+<input type="number" @bind="SecondRectangle.width" />
+<br />
+
+color:
+<input type="text" @bind="SecondRectangle.color" />
+<br />
+
+<input type="button" value="calculate" @onclick="Maximum" />
+<br />
+
+<span style="color:@colortext1">@result1</span>
+<br />
+<span style="color:@colortext2">@result2</span>
+<br />
+
+@code {
+
+    MyRectagle FirstRectangle = new MyRectagle();
+    MyRectagle SecondRectangle = new MyRectagle();
+
+    string result1 = "";
+    string result2 = "";
+    string colortext1 = "";
+    string colortext2 = "";
+
+    protected void Maximum()
+    {
+
+        if (FirstRectangle.Area() > SecondRectangle.Area())
+        {
+            result1 = "The area of the First rectangle is greater than the area of the Second Rectangle.";
+            colortext1 = FirstRectangle.color;
+        }
+        else {
+            result1 = "The area of the Second Rectangle is greater than the area of the First rectangle.";
+            colortext1 = SecondRectangle.color;
+        }
+
+        if (FirstRectangle.Perimeter() < SecondRectangle.Perimeter())
+        {
+            result2 = "The Perimeter of the Second Rectangle is greater than the Perimeter of the First Rectangle.";
+            colortext2 = SecondRectangle.color;
+        }
+        else
+        {
+            result2 = "The Perimeter of the First rectangle is greater than the Perimeter of the Second Rectangle.";
+            colortext2 = FirstRectangle.color;
+        }
+
+
+    }
+
+
+        }
+
+

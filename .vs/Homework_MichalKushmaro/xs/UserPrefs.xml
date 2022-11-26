@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{C5447730-535D-4D3E-980D-A5F63947DEAA}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Homework__MichalKushmaro.Server PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homework_MichalKushmaro/Client/Pages/HomeWork2.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework_MichalKushmaro/Client/Pages/Rectangles.razor">
     <Files>
       <File FileName="Homework_MichalKushmaro/Client/Pages/Index.razor" Line="12" Column="1" />
       <File FileName="Homework_MichalKushmaro/Client/Pages/HomeWork2.razor" Line="19" Column="19" />
+      <File FileName="Homework_MichalKushmaro/Client/Pages/Rectangles.razor" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,13 +17,13 @@
           <Node name="Homework_MichalKushmaro" expanded="True">
             <Node name="Homework_MichalKushmaro.Client" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="HomeWork2.razor" selected="True" />
+                <Node name="Rectangles.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True">
+                <Node name="MainLayout.razor" expanded="True" />
+                <Node name="NavMenu.razor" expanded="True" />
               </Node>
             </Node>
-            <Node name="Homework_MichalKushmaro.Server" expanded="True">
-              <Node name="Pages" expanded="True" />
-            </Node>
-            <Node name="Homework_MichalKushmaro.Shared" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -32,4 +32,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework__MichalKushmaro.Server PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>

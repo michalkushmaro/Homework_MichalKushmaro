@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-lZ8L5iiSghlvyt2ie2YdBYAtJbVa4mvpvBX3W9ihjLc=",
       "System.Private.CoreLib.dll": "sha256-jECkJy2Sjpl59QEL3nO3p8nwKGXvnJpXaKQF\/+MTw04=",
       "Homework_MichalKushmaro.Shared.dll": "sha256-8v494eFYxmmbQiRDMYU8yZ4LMlQSrIDzBa\/lOVwZh+k=",
-      "Homework_MichalKushmaro.Client.dll": "sha256-4Va2gEfAeupzHjkWkxp+C\/Xag38mH+3f6N5tpqT\/JCw="
+      "Homework_MichalKushmaro.Client.dll": "sha256-aVzUvlhqs0TwnSpl2oExWyh+Er54cI3ocvNeS3Ev\/Lg="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Homework_MichalKushmaro.Shared.pdb": "sha256-I9LtPMaZJRcTAvrwqZBXXRl\/YztFvc7+fE80tphYdO8=",
-      "Homework_MichalKushmaro.Client.pdb": "sha256-Sv4rbJ1hzC9tmSvabkpf6CLy3mO9dq0jvjcyvjYhIjI="
+      "Homework_MichalKushmaro.Client.pdb": "sha256-XYTbMdjuAZXtGFfzbUFATlYRFn5B1aEBNf3tzu7j1ck="
     },
     "runtime": {
       "dotnet.6.0.10.1mor76yziy.js": "sha256-KtM3Wrooexmrt5NmqvZfWoDPtNIe6wZqLopR6ToqUPg=",
